@@ -812,6 +812,8 @@ button:focus {
         position: fixed;
         top: 0;
         z-index: 999;
+        overflow-y: auto;
+        height: 100vh;
     }
 
     .secList .col-12 {
