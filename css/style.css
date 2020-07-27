@@ -2815,6 +2815,15 @@ button:focus {
     padding: 150px 0 150px 70px;
 }
 
+.en .secList {
+    right: auto;
+    left: -90px;
+}
+
+.en .secList a::before {
+    content: "\eaca";
+}فه
+
 /* .en .owl-carousel {
     direction: ltr;
 } */
